@@ -1,3 +1,6 @@
+![GoAlert js dependencies](goalert.png)
+
+
 idea: what if we could write a cypress plugin that only runs tests against components that depend on the diff of PR to master?
 if we're upgrading a library, we should only have to test components that integrate with said library
 
